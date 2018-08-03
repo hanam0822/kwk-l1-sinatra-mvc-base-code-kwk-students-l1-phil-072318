@@ -5,7 +5,6 @@ Bundler.require
 class Application < Sinatra::Base
  
  get '/specialeducation' do
-  "Special Education"
   erb:specialeducation
  end
  
