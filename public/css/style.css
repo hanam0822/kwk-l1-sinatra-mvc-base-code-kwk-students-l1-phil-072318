@@ -110,43 +110,4 @@ li.titleandcat a {
     display: block;
     text-align: left;
 }
-.button {
-    background-color: #6D619A;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
 
-
-.result {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-
-.about {
-  box-shadow: 10px 10px #6D619A;
-  height:auto;
-  width: 250px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  text-align: center;
-
-  padding: 10px;
-}
-
-h7 {
-  font-family: 'Sacramento', cursive;
-  font-size: 55px;
-  color:#6D619A;
-}
-
-h8 {
-  font-family: 'Sacramento', cursive;
-  font-size: 40px;
-    color:#6D619A;
-}
